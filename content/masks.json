@@ -1,0 +1,72 @@
+{
+  "id": "masks",
+  "title": "Masks",
+  "subtitle": "8 masks · Happy Mask Shop",
+  "icon": "smile",
+  "items": [
+    {
+      "id": "mask-01",
+      "title": "Keaton Mask → gate guard",
+      "region": "Hyrule Castle Town",
+      "era": "child",
+      "needs": "10 Rupees to borrow",
+      "hint": "Borrow the fox mask from the Happy Mask Shop, then wear it for the guard at the Death Mountain Trail gate in Kakariko — he buys it for his son for 15 rupees."
+    },
+    {
+      "id": "mask-02",
+      "title": "Skull Mask → Skull Kid",
+      "region": "Lost Woods",
+      "era": "child",
+      "needs": "20 Rupees to borrow",
+      "hint": "Borrow the skull mask and take it to the Skull Kid on the stump in the Lost Woods. He pays 10 rupees — less than the shop asks, so bring the difference."
+    },
+    {
+      "id": "mask-03",
+      "title": "Spooky Mask → graveyard boy",
+      "region": "Kakariko Graveyard",
+      "era": "child",
+      "needs": "30 Rupees to borrow",
+      "hint": "Borrow the spooky mask and visit the boy in the graveyard during the day. He buys it for the full 30 rupees — the only buyer who pays sticker price."
+    },
+    {
+      "id": "mask-04",
+      "title": "Bunny Hood → Running Man",
+      "region": "Hyrule Field",
+      "era": "child",
+      "needs": "50 Rupees to borrow",
+      "hint": "Borrow the bunny hood and catch the Running Man on his laps around Hyrule Field. He pays as much as your wallet can hold — the payout that funds the rest of the game."
+    },
+    {
+      "id": "mask-05",
+      "title": "Mask of Truth (borrow)",
+      "region": "Hyrule Castle Town",
+      "era": "child",
+      "needs": "Complete all four mask sales",
+      "hint": "Finish the four sales and pay the shop back, and the shopkeeper lends you the Mask of Truth for free. Wear it to read what Gossip Stones are really thinking."
+    },
+    {
+      "id": "mask-06",
+      "title": "Goron Mask (borrow)",
+      "region": "Hyrule Castle Town",
+      "era": "child",
+      "needs": "Complete the mask trading quest",
+      "hint": "After the trading quest, borrow the Goron Mask any time. It changes what some characters say to you."
+    },
+    {
+      "id": "mask-07",
+      "title": "Zora Mask (borrow)",
+      "region": "Hyrule Castle Town",
+      "era": "child",
+      "needs": "Complete the mask trading quest",
+      "hint": "After the trading quest, borrow the Zora Mask any time. It changes what some characters say to you."
+    },
+    {
+      "id": "mask-08",
+      "title": "Gerudo Mask (borrow)",
+      "region": "Hyrule Castle Town",
+      "era": "child",
+      "needs": "Complete the mask trading quest",
+      "hint": "After the trading quest, borrow the Gerudo Mask any time. It changes what some characters say to you."
+    }
+  ]
+}

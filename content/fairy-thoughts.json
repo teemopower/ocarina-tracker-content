@@ -1,0 +1,169 @@
+{
+  "id": "fairy",
+  "title": "Fairy Thoughts",
+  "subtitle": "23 thoughts · new in the remake",
+  "icon": "sparkles",
+  "items": [
+    {
+      "id": "fairy-01",
+      "title": "Rock west of the Castle Town entrance",
+      "region": "Hyrule Field",
+      "era": "child",
+      "hint": "Just outside the Castle Town gate, a glowing mark sits on a rock to the west. The fairy hid its whole fortune in a wooden crate nearby — break it open."
+    },
+    {
+      "id": "fairy-02",
+      "title": "Mossy wall by the big tree",
+      "region": "Hyrule Field",
+      "era": "child",
+      "hint": "On the road toward Kakariko, a mossy ruined wall beside a large tree carries a mark. The fairy hid something in the tree — shake it or roll into it."
+    },
+    {
+      "id": "fairy-03",
+      "title": "Overturned cart by the dirt road",
+      "region": "Hyrule Field",
+      "era": "child",
+      "hint": "Along the dirt road to Kakariko, an overturned cart has a mark on it. The fairy says little bugs skitter in the grass here — cut it down and catch some."
+    },
+    {
+      "id": "fairy-04",
+      "title": "Ruins by the ranch fence",
+      "region": "Hyrule Field",
+      "era": "child",
+      "hint": "Round the outside of Lon Lon Ranch to the ruins at its southwest corner, at the foot of an ivy-covered wall. Play the Sun’s Song beside the mark to restore health and magic."
+    },
+    {
+      "id": "fairy-05",
+      "title": "Gossip Stone grotto south of the ranch",
+      "region": "Hyrule Field",
+      "era": "both",
+      "hint": "South of the ranch, a grotto with a gossip stone hides a mark inside. As a child, clear the Skulltula off the wall; come back as an adult and the fairy has caught the golden bug — break the crate below for its token."
+    },
+    {
+      "id": "fairy-06",
+      "title": "Tree east of the Castle Town entrance",
+      "region": "Hyrule Field",
+      "era": "adult",
+      "hint": "As an adult, a tree just east of the Castle Town gate holds a thought about a first purchase — and the password for the Business Scrub in the grotto by the drawbridge. Remember it, then return as a child to buy the Heart Piece."
+    },
+    {
+      "id": "fairy-07",
+      "title": "Chest cave by Gerudo Valley",
+      "region": "Hyrule Field",
+      "era": "adult",
+      "hint": "Near the stone arch by Gerudo Valley, a mark by the cave urges you to take what is in the chest — the lock was left undone. As an adult it is already open and empty; come back as a child."
+    },
+    {
+      "id": "fairy-08",
+      "title": "Rock nook in the northwest, by the river",
+      "region": "Hyrule Field",
+      "era": "child",
+      "hint": "In a rock nook by the river at the northwest edge of the field, a fairy complains about the big Peahats. They fear fire — Din’s Fire is the answer."
+    },
+    {
+      "id": "fairy-09",
+      "title": "Ruined stone pillar on the south edge",
+      "region": "Hyrule Field",
+      "era": "child",
+      "hint": "At the southern edge of the field, east of the road down to Lake Hylia, a ruined stone pillar stands under a tree by a small pond. The mark warns never to point a stick at a butterfly — hold out a Deku Stick and one will land on it and turn into a fairy."
+    },
+    {
+      "id": "fairy-10",
+      "title": "Rock nook south of the Zora River entrance",
+      "region": "Hyrule Field",
+      "era": "child",
+      "hint": "On the rock wall at the eastern edge of the field, just south of the entrance to Zora River, a fairy loves laying rupees out in patterns — check the puddles, pits, and water nearby."
+    },
+    {
+      "id": "fairy-11",
+      "title": "Ivy wall behind the stable",
+      "region": "Lon Lon Ranch",
+      "era": "child",
+      "hint": "Go around behind the house and the stable to the garden. The thought is on the ivy-covered brick wall, among some crates, barrels, and a wooden cart. The cows love that kid’s song — play Epona’s Song for one and it gives milk."
+    },
+    {
+      "id": "fairy-12",
+      "title": "Glowing stone in the Royal Family’s Tomb",
+      "region": "Kakariko Graveyard",
+      "era": "child",
+      "hint": "Inside the Royal Family’s Tomb, a glowing blue stone in the inner room holds a thought about a song carved on a monument. Play the Sun’s Song here to restore health and magic."
+    },
+    {
+      "id": "fairy-13",
+      "title": "Broken stones at the tomb entrance",
+      "region": "Kakariko Graveyard",
+      "era": "child",
+      "hint": "Among the broken stones by the entrance of the Royal Family’s Tomb, a child hears that the Sun’s Song freezes ReDeads in place."
+    },
+    {
+      "id": "fairy-14",
+      "title": "Trail wall on Death Mountain",
+      "region": "Death Mountain Trail",
+      "era": "child",
+      "hint": "A mark is carved into the trail wall on the way up the mountain, best found at night. The fairy watches leaves drift in slow circles until a storm spins them fast — play the Song of Storms and the spinning leaf lifts off a grotto entrance below."
+    },
+    {
+      "id": "fairy-15",
+      "title": "Shore of Lake Hylia",
+      "region": "Lake Hylia",
+      "era": "child",
+      "hint": "A mark glows in an alcove on the west shore of the lake, near its south end. The fairy is hiding in one of the nearby pots — break them for a bottled fairy and some rupees."
+    },
+    {
+      "id": "fairy-16",
+      "title": "Cliff path along Zora’s River",
+      "region": "Zora’s River",
+      "era": "child",
+      "hint": "On the cliff trail past a crumbling arch, a glowing rock face holds a thought about bugs and soft soil. Release a bottled bug into the dirt pile by the bean seller and a hidden Skulltula pops out."
+    },
+    {
+      "id": "fairy-17",
+      "title": "Spirit Temple ledge",
+      "region": "Desert Colossus",
+      "era": "both",
+      "hint": "On the ledge outside the Spirit Temple, between the chests, a fairy complains about the dry air and wishes for rain. Play the Song of Storms here to restore health and magic. Readable at either age."
+    },
+    {
+      "id": "fairy-18",
+      "title": "Inside the Shadow Temple",
+      "region": "Shadow Temple",
+      "era": "adult",
+      "hint": "Deep in the Shadow Temple, in a barred hall, a mark wishes for a big, strong blast of wind. Play the Song of Storms here to restore health and magic."
+    },
+    {
+      "id": "fairy-19",
+      "title": "Inside the Bottom of the Well",
+      "region": "Bottom of the Well",
+      "era": "child",
+      "hint": "Down in the well, beside a coffin in the room with the mummified creatures, a fairy misses an old man’s song about going round and round. Play the Song of Storms here to restore health and magic."
+    },
+    {
+      "id": "fairy-20",
+      "title": "Inside the Ice Cavern",
+      "region": "Ice Cavern",
+      "era": "adult",
+      "hint": "Late in the frozen corridor, a fairy complains about the cold and wishes for a few warm moments in the sun. Play the Sun’s Song here to restore health and magic."
+    },
+    {
+      "id": "fairy-21",
+      "title": "Inside the Forest Temple",
+      "region": "Forest Temple",
+      "era": "adult",
+      "hint": "On the third floor, in the blue hall with the stained-glass windows, a mark finds the room cosy but a little damp. Play the Sun’s Song here to restore health and magic."
+    },
+    {
+      "id": "fairy-22",
+      "title": "Inside the Fire Temple",
+      "region": "Fire Temple",
+      "era": "adult",
+      "hint": "On the fifth floor, on the path to the right of the hammer chest, a fairy loves bright places and wonders how to make the lava-lit rooms even brighter. Play the Sun’s Song here to restore health and magic."
+    },
+    {
+      "id": "fairy-23",
+      "title": "Inside the Water Temple",
+      "region": "Water Temple",
+      "era": "adult",
+      "hint": "In a side room of the Water Temple, a mark finds the humidity something else and misses the sun. Play the Sun’s Song here to restore health and magic."
+    }
+  ]
+}

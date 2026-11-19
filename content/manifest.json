@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-19",
+  "totalItems": 242,
+  "lists": [
+    {
+      "id": "skulltulas",
+      "title": "Gold Skulltulas",
+      "file": "content/skulltulas.json",
+      "count": 100
+    },
+    {
+      "id": "hearts",
+      "title": "Heart Pieces",
+      "file": "content/heart-pieces.json",
+      "count": 36
+    },
+    {
+      "id": "bottles",
+      "title": "Bottles",
+      "file": "content/bottles.json",
+      "count": 5
+    },
+    {
+      "id": "masks",
+      "title": "Masks",
+      "file": "content/masks.json",
+      "count": 8
+    },
+    {
+      "id": "trading",
+      "title": "Trading Quest",
+      "file": "content/trading-quest.json",
+      "count": 11
+    },
+    {
+      "id": "fairy",
+      "title": "Fairy Thoughts",
+      "file": "content/fairy-thoughts.json",
+      "count": 23
+    },
+    {
+      "id": "fountains",
+      "title": "Great Fairy Fountains",
+      "file": "content/fountains.json",
+      "count": 6
+    }
+  ],
+  "hall": {
+    "id": "hall",
+    "title": "Hall of Fallen Foes",
+    "file": "content/hall-of-fallen-foes.json",
+    "bosses": 9,
+    "enemies": 41,
+    "trials": 3,
+    "count": 53
+  }
+}

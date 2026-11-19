@@ -1,0 +1,788 @@
+{
+  "id": "skulltulas",
+  "title": "Gold Skulltulas",
+  "subtitle": "100 tokens · rewards at the House of Skulltula",
+  "icon": "skull",
+  "items": [
+    {
+      "id": "skulltula-01",
+      "title": "Third-floor alcove",
+      "region": "Great Deku Tree",
+      "era": "child",
+      "hint": "Hop across the stone platforms on the third floor toward the next room. The golden spider is on the wall of the little alcove with a chest in it."
+    },
+    {
+      "id": "skulltula-02",
+      "title": "Basement vine wall",
+      "region": "Great Deku Tree",
+      "era": "child",
+      "needs": "Fairy Slingshot",
+      "hint": "After the drop into the basement water room, swim to the vine-covered wall and look up. Shoot it down, then climb the vines to pick up the token."
+    },
+    {
+      "id": "skulltula-03",
+      "title": "Web-covered grate",
+      "region": "Great Deku Tree",
+      "era": "child",
+      "needs": "Fairy Slingshot",
+      "hint": "Swim along the basement to the barred gate draped in webs. The spider sits on the bars — a seed from the slingshot knocks it loose."
+    },
+    {
+      "id": "skulltula-04",
+      "title": "Torch-room vines",
+      "region": "Great Deku Tree",
+      "era": "child",
+      "needs": "Fairy Slingshot",
+      "hint": "Past the burned webs, a regular skulltula guards a vine wall in the cave. Clear it first, climb up, and take the golden one waiting above."
+    },
+    {
+      "id": "skulltula-05",
+      "title": "Behind the Know-It-All Brothers' house",
+      "region": "Kokiri Forest",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "At night, check the back wall of the Know-It-All Brothers' house. It only shows up after dark."
+    },
+    {
+      "id": "skulltula-06",
+      "title": "Soft soil by the shop",
+      "region": "Kokiri Forest",
+      "era": "child",
+      "needs": "Bottle with a bug",
+      "hint": "Drop a bottled bug onto the patch of soft soil beside the Kokiri Shop and a golden spider crawls out."
+    },
+    {
+      "id": "skulltula-07",
+      "title": "Roof of the House of Twins",
+      "region": "Kokiri Forest",
+      "era": "adult",
+      "needs": "Hookshot",
+      "nightOnly": true,
+      "hint": "As an adult at night, the spider is on top of the twins' house. Pull it down with the hookshot."
+    },
+    {
+      "id": "skulltula-08",
+      "title": "Soft soil by the bridge",
+      "region": "Lost Woods",
+      "era": "child",
+      "needs": "Bottle with a bug",
+      "hint": "From the Kokiri Forest entrance, take two lefts and duck under the bridge to a soft-soil patch. Release a bug there."
+    },
+    {
+      "id": "skulltula-09",
+      "title": "Soft soil in the scrub clearing",
+      "region": "Lost Woods",
+      "era": "child",
+      "needs": "Bottle with a bug",
+      "hint": "Deep in the woods, in the clearing with two Business Scrubs, a soft-soil patch hides another one. A bottled bug flushes it out."
+    },
+    {
+      "id": "skulltula-10",
+      "title": "Bean-plant ledge",
+      "region": "Lost Woods",
+      "era": "adult",
+      "needs": "Magic Bean (planted as a child)",
+      "nightOnly": true,
+      "hint": "As a child, plant a magic bean in the soft soil by the second Business Scrub. Come back as an adult, ride the sprout up, and grab the spider on the high ledge."
+    },
+    {
+      "id": "skulltula-11",
+      "title": "High wall above the maze",
+      "region": "Sacred Grove",
+      "era": "adult",
+      "needs": "Hookshot",
+      "nightOnly": true,
+      "hint": "Climb onto the top of the maze walls in the Sacred Grove. The spider is on the high wall at the far end — reach it from above."
+    },
+    {
+      "id": "skulltula-12",
+      "title": "Tree by the Lon Lon Ranch gate",
+      "region": "Hyrule Field",
+      "era": "child",
+      "hint": "Roll into the lone tree just outside the ranch gate. Something golden drops out of the branches."
+    },
+    {
+      "id": "skulltula-13",
+      "title": "Stone circle grotto",
+      "region": "Hyrule Field",
+      "era": "both",
+      "needs": "Bombs",
+      "nightOnly": true,
+      "hint": "West of the field, near the road to Gerudo Valley, a ring of stones hides a hole. Bomb the ground inside the circle and drop in at night."
+    },
+    {
+      "id": "skulltula-14",
+      "title": "Hollow by the Castle Town tree",
+      "region": "Hyrule Field",
+      "era": "both",
+      "needs": "Bombs",
+      "hint": "Bomb the base of the lone tree east of the Castle Town entrance to open a hole. The spider is down inside — a boomerang or hookshot pulls the token up."
+    },
+    {
+      "id": "skulltula-15",
+      "title": "Window of the house by the stable",
+      "region": "Lon Lon Ranch",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "At night, look at the window of the house next to the stable. The spider is clinging to the wall there."
+    },
+    {
+      "id": "skulltula-16",
+      "title": "Wall by the stone tower",
+      "region": "Lon Lon Ranch",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "In the east part of the corral, the spider is on the wall by the tall stone tower. A slingshot seed brings it down."
+    },
+    {
+      "id": "skulltula-17",
+      "title": "Behind the corral shed",
+      "region": "Lon Lon Ranch",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "Walk around behind the shed at the back of the corral. The spider is on the wall there after dark."
+    },
+    {
+      "id": "skulltula-18",
+      "title": "Crate in the guardhouse",
+      "region": "Hyrule Castle Town",
+      "era": "child",
+      "hint": "Inside the guardhouse near the market entrance, smash the wooden crate in the corner. The spider is hiding inside it."
+    },
+    {
+      "id": "skulltula-19",
+      "title": "Tree on the castle path",
+      "region": "Hyrule Castle",
+      "era": "child",
+      "hint": "Roll into the tree by the entrance of the path up to the castle. The spider drops out of the branches."
+    },
+    {
+      "id": "skulltula-20",
+      "title": "Song of Storms grotto",
+      "region": "Hyrule Castle",
+      "era": "child",
+      "needs": "Song of Storms",
+      "hint": "In the castle grounds, near the moat where you first woke Talon, play the Song of Storms by the tree to open a hole in the ground. Drop in for the spider.",
+      "remakeNote": "You learn the Song of Storms as an adult in the Kakariko windmill, then come back here as a child."
+    },
+    {
+      "id": "skulltula-21",
+      "title": "Arch by the lava pit",
+      "region": "Ganon's Castle",
+      "era": "adult",
+      "needs": "Longshot",
+      "hint": "Near the edge of the lava pit, behind the stone arch, the spider waits on the wall. A longshot pulls the token to you."
+    },
+    {
+      "id": "skulltula-22",
+      "title": "Tree at the village entrance",
+      "region": "Kakariko Village",
+      "era": "child",
+      "hint": "Roll into the big tree right by the village entrance. The spider falls out of the branches."
+    },
+    {
+      "id": "skulltula-23",
+      "title": "Wall of the unfinished house",
+      "region": "Kakariko Village",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "On the construction plot, the spider is on the back wall of the house nearest the Death Mountain Trail gate."
+    },
+    {
+      "id": "skulltula-24",
+      "title": "Ladder to the lookout tower",
+      "region": "Kakariko Village",
+      "era": "child",
+      "needs": "Fairy Slingshot",
+      "nightOnly": true,
+      "hint": "At night, the spider is on the ladder leading up to the lookout tower. A slingshot seed knocks it down."
+    },
+    {
+      "id": "skulltula-25",
+      "title": "Below the Skulltula House window",
+      "region": "Kakariko Village",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "Under the window of the House of Skulltula itself — the stone house with the blue door — a spider clings to the wall at night."
+    },
+    {
+      "id": "skulltula-26",
+      "title": "Pile of bricks on the building plot",
+      "region": "Kakariko Village",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "On the empty plot under construction, the spider is on the stack of bricks. Check it after dark."
+    },
+    {
+      "id": "skulltula-27",
+      "title": "Roof of Impa's house",
+      "region": "Kakariko Village",
+      "era": "adult",
+      "needs": "Hookshot",
+      "nightOnly": true,
+      "hint": "As an adult at night, the spider is on the roof of Impa's house, next to the cucco pen. Hookshot it down."
+    },
+    {
+      "id": "skulltula-28",
+      "title": "Soft soil in the graveyard",
+      "region": "Kakariko Graveyard",
+      "era": "child",
+      "needs": "Bottle with a bug",
+      "hint": "Release a bottled bug onto the soft-soil patch in the graveyard and the spider crawls out."
+    },
+    {
+      "id": "skulltula-29",
+      "title": "Wall by the second row of graves",
+      "region": "Kakariko Graveyard",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "At night, check the wall to the right of the second row of graves. The spider is up on the stonework."
+    },
+    {
+      "id": "skulltula-30",
+      "title": "Soft soil by Dodongo's Cavern",
+      "region": "Death Mountain Trail",
+      "era": "child",
+      "needs": "Bottle with a bug",
+      "hint": "A soft-soil patch sits by the entrance to Dodongo's Cavern. A bottled bug draws the spider out."
+    },
+    {
+      "id": "skulltula-31",
+      "title": "Bombable wall past the entrance",
+      "region": "Death Mountain Trail",
+      "era": "both",
+      "needs": "Bombs",
+      "nightOnly": true,
+      "hint": "Just past the trail entrance, bomb the cracked wall to open a small cave. The spider is inside, out at night."
+    },
+    {
+      "id": "skulltula-32",
+      "title": "Behind the rock in the eruption area",
+      "region": "Death Mountain Trail",
+      "era": "adult",
+      "nightOnly": true,
+      "hint": "Higher up the trail where rocks rain down, a spider hides behind a boulder. Clear the rock and grab it after dark."
+    },
+    {
+      "id": "skulltula-33",
+      "title": "Ledge above Dodongo's Cavern",
+      "region": "Death Mountain Trail",
+      "era": "adult",
+      "nightOnly": true,
+      "hint": "On the ledge above the cavern entrance, behind another rock, the last trail spider waits. Night only."
+    },
+    {
+      "id": "skulltula-34",
+      "title": "Crate in the bombed room",
+      "region": "Goron City",
+      "era": "child",
+      "needs": "Bombs",
+      "hint": "Bomb open the boulder-blocked room on the lower floor. In the far right corner, a crate hides the spider."
+    },
+    {
+      "id": "skulltula-35",
+      "title": "Back of the hanging platform",
+      "region": "Goron City",
+      "era": "adult",
+      "needs": "Hookshot",
+      "hint": "Walk the ropes out to the hanging platform on the top floor. The spider is on the back of it — hookshot it from the platform."
+    },
+    {
+      "id": "skulltula-36",
+      "title": "Crate just inside the crater",
+      "region": "Death Mountain Crater",
+      "era": "child",
+      "hint": "Just inside the crater entrance, smash the crate. The spider is hiding in it."
+    },
+    {
+      "id": "skulltula-37",
+      "title": "Soft soil by the Fire Temple",
+      "region": "Death Mountain Crater",
+      "era": "child",
+      "needs": "Bolero of Fire, Bottle with a bug",
+      "hint": "Warp in with the Bolero of Fire and drop a bug on the soft-soil patch near the Fire Temple entrance. The spider comes out.",
+      "remakeNote": "The heat drains your health while you are in the crater, so come in full."
+    },
+    {
+      "id": "skulltula-38",
+      "title": "Tree at the river entrance",
+      "region": "Zora's River",
+      "era": "child",
+      "hint": "Roll into the tree at the entrance to the river. The spider drops from the branches."
+    },
+    {
+      "id": "skulltula-39",
+      "title": "Ladder at the waterfall base",
+      "region": "Zora's River",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "At night, the spider is on the ladder at the base of the waterfall. A slingshot seed brings it down."
+    },
+    {
+      "id": "skulltula-40",
+      "title": "Ledge between the tall walls",
+      "region": "Zora's River",
+      "era": "adult",
+      "nightOnly": true,
+      "hint": "On the west side of the river, a narrow stretch runs between two tall walls. Climb onto the ledge on the east side of those walls, then up the ladder at its end — the spider is on the wall near the ladder."
+    },
+    {
+      "id": "skulltula-41",
+      "title": "Wall facing the Domain waterfall",
+      "region": "Zora's River",
+      "era": "adult",
+      "nightOnly": true,
+      "hint": "Stand in front of the waterfall that leads to Zora's Domain, then turn around. The spider is on the wall up ahead."
+    },
+    {
+      "id": "skulltula-42",
+      "title": "Left of the frozen waterfall",
+      "region": "Zora's Domain",
+      "era": "adult",
+      "nightOnly": true,
+      "hint": "As an adult, the waterfall is frozen. The spider is on the wall to the left of the top of the frozen fall."
+    },
+    {
+      "id": "skulltula-43",
+      "title": "Tree by the bombable wall",
+      "region": "Zora's Fountain",
+      "era": "child",
+      "hint": "Roll into the tree by the cracked wall in the fountain area. The spider falls out."
+    },
+    {
+      "id": "skulltula-44",
+      "title": "Wall by the southeast log",
+      "region": "Zora's Fountain",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "Follow the log to the southeast corner of the fountain. The spider is on the wall near the end of it."
+    },
+    {
+      "id": "skulltula-45",
+      "title": "Fairy fountain cave",
+      "region": "Zora's Fountain",
+      "era": "adult",
+      "needs": "Silver Gauntlets, Lens of Truth",
+      "nightOnly": true,
+      "hint": "Lift the grey stone by the Great Fairy fountain entrance with the Silver Gauntlets, hammer the small rock underneath, and drop into the hole. Use the Lens of Truth to spot the hidden spiders, clear them, and climb the slope to the golden one at the top."
+    },
+    {
+      "id": "skulltula-46",
+      "title": "Soft soil by the Lakeside Lab",
+      "region": "Lake Hylia",
+      "era": "child",
+      "needs": "Bottle with a bug",
+      "hint": "Drop a bug on the soft-soil patch in front of the Lakeside Laboratory."
+    },
+    {
+      "id": "skulltula-47",
+      "title": "Small island in the lake",
+      "region": "Lake Hylia",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "At night, the spider is on a small square island near the middle of the lake. Swim out to it."
+    },
+    {
+      "id": "skulltula-48",
+      "title": "Back wall of the Lakeside Lab",
+      "region": "Lake Hylia",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "Walk around to the back wall of the laboratory. The spider is up on the wall after dark."
+    },
+    {
+      "id": "skulltula-49",
+      "title": "Crate in the lab tank",
+      "region": "Lake Hylia",
+      "era": "adult",
+      "needs": "Iron Boots, Zora Tunic",
+      "hint": "Sink to the bottom of the laboratory pool with the Iron Boots and Zora Tunic, then roll into the crate. The spider is inside it."
+    },
+    {
+      "id": "skulltula-50",
+      "title": "Tree on the Water Temple island",
+      "region": "Lake Hylia",
+      "era": "adult",
+      "nightOnly": true,
+      "hint": "On the island where the Water Temple sits, the spider is in the tree on top. Hookshot or shoot it down at night."
+    },
+    {
+      "id": "skulltula-51",
+      "title": "Water spout by the first bridge",
+      "region": "Gerudo Valley",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "At night, the spider is on the water spout beside the first bridge across the valley."
+    },
+    {
+      "id": "skulltula-52",
+      "title": "Soft soil below the second bridge",
+      "region": "Gerudo Valley",
+      "era": "child",
+      "needs": "Bottle with a bug",
+      "hint": "Down by the river below the second bridge, a soft-soil patch hides a spider. Release a bug on it."
+    },
+    {
+      "id": "skulltula-53",
+      "title": "Behind the carpenter's tent",
+      "region": "Gerudo Valley",
+      "era": "adult",
+      "nightOnly": true,
+      "hint": "As an adult at night, check behind the carpenter's tent in the valley. The spider is on the back of it."
+    },
+    {
+      "id": "skulltula-54",
+      "title": "On the rock arch",
+      "region": "Gerudo Valley",
+      "era": "adult",
+      "needs": "Hookshot",
+      "nightOnly": true,
+      "hint": "The spider sits on the big rock arch spanning the valley. Hookshot it down after dark."
+    },
+    {
+      "id": "skulltula-55",
+      "title": "Rock wall above the fortress",
+      "region": "Gerudo Fortress",
+      "era": "adult",
+      "needs": "Hookshot",
+      "nightOnly": true,
+      "hint": "High on the rock wall above the fortress, a spider waits at night. Pull it down with the hookshot."
+    },
+    {
+      "id": "skulltula-56",
+      "title": "Far target in the archery range",
+      "region": "Gerudo Fortress",
+      "era": "adult",
+      "needs": "Fairy Bow",
+      "nightOnly": true,
+      "hint": "In the horseback archery range, the spider is on the farthest target. An arrow brings it down."
+    },
+    {
+      "id": "skulltula-57",
+      "title": "Inside the stone building",
+      "region": "Mirage Desert",
+      "era": "adult",
+      "hint": "Cross the haunted desert to the lone stone building. The spider is inside, on the wall."
+    },
+    {
+      "id": "skulltula-58",
+      "title": "Soft soil by the Spirit Temple",
+      "region": "Desert Colossus",
+      "era": "child",
+      "needs": "Requiem of Spirit, Bottle with a bug",
+      "hint": "Warp in with the Requiem of Spirit and drop a bug on the soft-soil patch by the temple entrance."
+    },
+    {
+      "id": "skulltula-59",
+      "title": "Tree by the empty pond",
+      "region": "Desert Colossus",
+      "era": "adult",
+      "nightOnly": true,
+      "hint": "At night, the spider is in the tree beside the dry pond at the Colossus."
+    },
+    {
+      "id": "skulltula-60",
+      "title": "Beanstalk mound",
+      "region": "Desert Colossus",
+      "era": "adult",
+      "needs": "Magic Bean (planted as a child)",
+      "nightOnly": true,
+      "hint": "As a child, plant a magic bean in the soil by the temple wall. As an adult, ride the sprout to the second rocky mound, where the spider waits."
+    },
+    {
+      "id": "skulltula-61",
+      "title": "Baby dodongo room",
+      "region": "Dodongo's Cavern",
+      "era": "child",
+      "needs": "Bombs",
+      "hint": "Beyond the bombable wall, in the room with the baby dodongos on the first floor, the spider is on the wall."
+    },
+    {
+      "id": "skulltula-62",
+      "title": "Vines above the bombed stairs",
+      "region": "Dodongo's Cavern",
+      "era": "child",
+      "hint": "At the top of the room with the stairs you bombed, the spider is on the vines on the second floor."
+    },
+    {
+      "id": "skulltula-63",
+      "title": "Block-and-wall room",
+      "region": "Dodongo's Cavern",
+      "era": "child",
+      "needs": "Bombs",
+      "hint": "Push the block against the bombable wall to open a new room on the first floor. The spider is inside."
+    },
+    {
+      "id": "skulltula-64",
+      "title": "Alcove above the stairs",
+      "region": "Dodongo's Cavern",
+      "era": "adult",
+      "needs": "Longshot",
+      "hint": "Set off the bombs to lower the stairs, then use the longshot to hit the spider in the alcove above them."
+    },
+    {
+      "id": "skulltula-65",
+      "title": "Scarecrow ledge",
+      "region": "Dodongo's Cavern",
+      "era": "adult",
+      "needs": "Scarecrow's Song",
+      "hint": "Back in the baby dodongo room, play the Scarecrow's Song to summon the scarecrow and reach the ledge where the spider sits."
+    },
+    {
+      "id": "skulltula-66",
+      "title": "Vines in the rising-water room",
+      "region": "Jabu-Jabu's Belly",
+      "era": "child",
+      "hint": "In the room where the water rises, on the first basement floor, the spider is on the vines."
+    },
+    {
+      "id": "skulltula-67",
+      "title": "Wall by the drop-down hole",
+      "region": "Jabu-Jabu's Belly",
+      "era": "child",
+      "hint": "Drop down the hole into the lower room. The spider is on a wall on the first basement floor."
+    },
+    {
+      "id": "skulltula-68",
+      "title": "Wall near the first one",
+      "region": "Jabu-Jabu's Belly",
+      "era": "child",
+      "hint": "Not far from the last one, on another wall on the same basement floor, a second spider waits."
+    },
+    {
+      "id": "skulltula-69",
+      "title": "Vines to the web wall",
+      "region": "Jabu-Jabu's Belly",
+      "era": "child",
+      "hint": "On the first floor, climb the vines leading up to the spiderweb wall. The golden spider is on the vines."
+    },
+    {
+      "id": "skulltula-70",
+      "title": "Vines in the first room",
+      "region": "Forest Temple",
+      "era": "adult",
+      "needs": "Hookshot",
+      "hint": "Right in the first room on the first floor, the spider is on the vines. Hookshot or shoot it down."
+    },
+    {
+      "id": "skulltula-71",
+      "title": "Wall by the central stairs",
+      "region": "Forest Temple",
+      "era": "adult",
+      "hint": "In the central room on the first floor, the spider is on the wall next to the stairs."
+    },
+    {
+      "id": "skulltula-72",
+      "title": "Chest ledge in the east courtyard",
+      "region": "Forest Temple",
+      "era": "adult",
+      "needs": "Hookshot",
+      "hint": "In the east courtyard, hookshot onto the front of the small chest sitting on a ledge. The spider is up there with it."
+    },
+    {
+      "id": "skulltula-73",
+      "title": "End of the west courtyard walkway",
+      "region": "Forest Temple",
+      "era": "adult",
+      "hint": "Follow the stone walkway above the west courtyard to its end. The spider is on the wall there."
+    },
+    {
+      "id": "skulltula-74",
+      "title": "Rotating room",
+      "region": "Forest Temple",
+      "era": "adult",
+      "hint": "In the room that can be rotated, on the second basement floor, the spider is on the wall."
+    },
+    {
+      "id": "skulltula-75",
+      "title": "Like Like room wall",
+      "region": "Fire Temple",
+      "era": "adult",
+      "hint": "In the room with the Like Like and the floating tiles on the first floor, the spider is on the wall."
+    },
+    {
+      "id": "skulltula-76",
+      "title": "Behind the boulder-room wall",
+      "region": "Fire Temple",
+      "era": "adult",
+      "needs": "Bombs",
+      "hint": "In the room with the rolling boulders on the third floor, bomb the cracked wall. The spider is behind it."
+    },
+    {
+      "id": "skulltula-77",
+      "title": "Scarecrow room",
+      "region": "Fire Temple",
+      "era": "adult",
+      "needs": "Scarecrow's Song",
+      "hint": "Play the Scarecrow's Song in the boulder room to reach a new ledge on the fourth floor. The spider is up there."
+    },
+    {
+      "id": "skulltula-78",
+      "title": "Circular rupee room",
+      "region": "Fire Temple",
+      "era": "adult",
+      "hint": "In the large circular room on the fifth floor, the spider is on the wall near the pile of rupees."
+    },
+    {
+      "id": "skulltula-79",
+      "title": "Rooms past the totem",
+      "region": "Fire Temple",
+      "era": "adult",
+      "hint": "From the first room of the dungeon, head through the rooms beyond the totem. The spider is on the first floor there."
+    },
+    {
+      "id": "skulltula-80",
+      "title": "Silver rupee room",
+      "region": "Ice Cavern",
+      "era": "adult",
+      "hint": "In the room with the silver rupees, the spider hides behind the icicles. Break them to reveal it."
+    },
+    {
+      "id": "skulltula-81",
+      "title": "Falling-icicle room",
+      "region": "Ice Cavern",
+      "era": "adult",
+      "hint": "In the room with the falling icicles, the compass, and a heart piece, the spider is on the wall."
+    },
+    {
+      "id": "skulltula-82",
+      "title": "Block puzzle room",
+      "region": "Ice Cavern",
+      "era": "adult",
+      "hint": "In the block puzzle room, the spider is on the wall. Clear the puzzle and it is easy to spot."
+    },
+    {
+      "id": "skulltula-83",
+      "title": "Under the cracked floor",
+      "region": "Water Temple",
+      "era": "adult",
+      "needs": "Bombs",
+      "hint": "Bomb the cracked floor on the first floor, then spin-attack the gate to reach the spider below."
+    },
+    {
+      "id": "skulltula-84",
+      "title": "Corner of the vortex creek",
+      "region": "Water Temple",
+      "era": "adult",
+      "hint": "In a corner of the swirling creek on the first floor, the spider is on the wall."
+    },
+    {
+      "id": "skulltula-85",
+      "title": "North wall of the falling-platform room",
+      "region": "Water Temple",
+      "era": "adult",
+      "hint": "In the room with the platforms that drop away beside the waterfall, on the third floor, the spider is on the north wall."
+    },
+    {
+      "id": "skulltula-86",
+      "title": "Wall behind the boulder run",
+      "region": "Water Temple",
+      "era": "adult",
+      "hint": "On the first floor, where boulders roll down the slope, the spider is on the wall behind the run."
+    },
+    {
+      "id": "skulltula-87",
+      "title": "Inside the tower",
+      "region": "Water Temple",
+      "era": "adult",
+      "needs": "Longshot",
+      "hint": "Inside the central tower on the third floor, use the longshot to reach the spider high on the wall."
+    },
+    {
+      "id": "skulltula-88",
+      "title": "Locked room, center hall",
+      "region": "Bottom of the Well",
+      "era": "child",
+      "needs": "Song of Storms",
+      "hint": "Drain the well with the Song of Storms, then enter the locked room off the center hall on the first floor. The spider is inside."
+    },
+    {
+      "id": "skulltula-89",
+      "title": "Second locked room",
+      "region": "Bottom of the Well",
+      "era": "child",
+      "needs": "Song of Storms",
+      "hint": "Another locked room off the same center hall holds a second spider. Bring the Lens of Truth — the way is hidden."
+    },
+    {
+      "id": "skulltula-90",
+      "title": "Like Like room",
+      "region": "Bottom of the Well",
+      "era": "child",
+      "hint": "In the room with the Like Like on the first floor, the spider is on the wall. Deal with the Like Like first."
+    },
+    {
+      "id": "skulltula-91",
+      "title": "Spinning-blade room",
+      "region": "Shadow Temple",
+      "era": "adult",
+      "needs": "Lens of Truth",
+      "hint": "In the room with the invisible spinning blade on the fourth basement floor, the spider is on the wall. The Lens of Truth shows the way."
+    },
+    {
+      "id": "skulltula-92",
+      "title": "Cell in the spike room",
+      "region": "Shadow Temple",
+      "era": "adult",
+      "hint": "In the room with the falling spikes, check the cell at the side. The spider is inside it."
+    },
+    {
+      "id": "skulltula-93",
+      "title": "Flaming-skull room",
+      "region": "Shadow Temple",
+      "era": "adult",
+      "hint": "In the room with a single flaming skull on the fourth basement floor, the spider is on the wall."
+    },
+    {
+      "id": "skulltula-94",
+      "title": "Ghost-ship room",
+      "region": "Shadow Temple",
+      "era": "adult",
+      "needs": "Scarecrow's Song",
+      "hint": "Where the ghost ship first appears, play the Scarecrow's Song to reach the ledge. The spider is up there."
+    },
+    {
+      "id": "skulltula-95",
+      "title": "Three flaming skulls room",
+      "region": "Shadow Temple",
+      "era": "adult",
+      "hint": "In the room with three spinning flaming skulls on the fourth basement floor, the spider is on the wall."
+    },
+    {
+      "id": "skulltula-96",
+      "title": "Grating wall",
+      "region": "Spirit Temple",
+      "era": "child",
+      "hint": "On the first floor of the child side, the spider is on the grating wall."
+    },
+    {
+      "id": "skulltula-97",
+      "title": "Opposite the brick climbing wall",
+      "region": "Spirit Temple",
+      "era": "child",
+      "hint": "On the first floor, across from the brick wall you climb, the spider is on the opposite wall."
+    },
+    {
+      "id": "skulltula-98",
+      "title": "Above the door before Iron Knuckle",
+      "region": "Spirit Temple",
+      "era": "child",
+      "hint": "In the corridor just before the Iron Knuckle fight, the spider is above the doorway."
+    },
+    {
+      "id": "skulltula-99",
+      "title": "Niche in the boulder room",
+      "region": "Spirit Temple",
+      "era": "adult",
+      "hint": "In the rolling-boulder room on the first floor of the adult side, the spider hides in a wall niche."
+    },
+    {
+      "id": "skulltula-100",
+      "title": "Statue room, third floor",
+      "region": "Spirit Temple",
+      "era": "adult",
+      "needs": "Scarecrow's Song",
+      "hint": "In the big statue room on the third floor, play the Scarecrow's Song to reach the high ledge where the spider waits."
+    }
+  ]
+}

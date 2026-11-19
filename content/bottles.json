@@ -1,0 +1,47 @@
+{
+  "id": "bottles",
+  "title": "Bottles",
+  "subtitle": "5 bottles · 1 new in the remake",
+  "icon": "flask",
+  "items": [
+    {
+      "id": "bottle-01",
+      "title": "Potion Shop bug quest (NEW)",
+      "region": "Hyrule Castle Town",
+      "era": "child",
+      "hint": "On your first visit to Castle Town as a child, step into the potion shop. A bug has escaped — the shopkeeper hands you a bottle to catch it with. Trap the critter against a wall or the pots, catch it, and bring it back. He lets you keep the bottle, filled with a red potion.",
+      "remakeNote": "Brand-new in the Switch 2 remake — the original game only had four bottles."
+    },
+    {
+      "id": "bottle-02",
+      "title": "Super Cucco game",
+      "region": "Lon Lon Ranch",
+      "era": "child",
+      "hint": "Wake Talon up at Hyrule Castle, then head to Lon Lon Ranch and play the Super Cucco mini-game. Find the three special cuccos among the flock to win a bottle of Lon Lon Milk — the bottle is yours to keep."
+    },
+    {
+      "id": "bottle-03",
+      "title": "Cucco Lady's lost flock",
+      "region": "Kakariko Village",
+      "era": "child",
+      "hint": "The Cucco Lady in Kakariko has lost seven cuccos around the village. Round them all up and toss them back into her pen, then talk to her for the bottle."
+    },
+    {
+      "id": "bottle-04",
+      "title": "Ruto's letter",
+      "region": "Lake Hylia",
+      "era": "child",
+      "needs": "Silver Scale",
+      "hint": "Win the Silver Scale in Zora's Domain, then slip through the underwater shortcut into Lake Hylia. A bottle holding Princess Ruto's letter is at the bottom — deliver it to King Zora and keep the empty bottle."
+    },
+    {
+      "id": "bottle-05",
+      "title": "Poe Collector's reward",
+      "region": "Hyrule Castle Town",
+      "era": "adult",
+      "needs": "Epona, Fairy Bow",
+      "hint": "As an adult with Epona and the Fairy Bow, ride Hyrule Field and leap over the glowing purple markers on horseback to wake the Big Poes. Two arrows each brings one down — bottle its soul and sell five to the Poe Collector in the Ghost Shop at the Castle Town gate for 500 points. He rewards you with the final bottle.",
+      "remakeNote": "The remake only asks for 5 Big Poes (500 points). The original wanted all 10."
+    }
+  ]
+}

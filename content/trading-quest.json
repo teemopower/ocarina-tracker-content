@@ -1,0 +1,85 @@
+{
+  "id": "trading",
+  "title": "Trading Quest",
+  "subtitle": "11 steps · Biggoron's Sword",
+  "icon": "route",
+  "items": [
+    {
+      "id": "trade-01",
+      "title": "Pocket Egg",
+      "region": "Kakariko Village",
+      "era": "adult",
+      "hint": "The Cucco Lady in Kakariko hands you a pocket egg. Wait a while (play the Sun's Song a few times) and it hatches."
+    },
+    {
+      "id": "trade-02",
+      "title": "Pocket Cucco → wake Talon",
+      "region": "Kakariko Village",
+      "era": "adult",
+      "hint": "Use the hatched cucco to wake Talon, asleep in a house in Kakariko. He stumbles home — and leaves his blue cucco, Cojiro, behind."
+    },
+    {
+      "id": "trade-03",
+      "title": "Cojiro → man in the Lost Woods",
+      "region": "Lost Woods",
+      "era": "adult",
+      "hint": "Carry Cojiro to the man in the Lost Woods who lost his cucco. He takes it back and hands you a strange mushroom."
+    },
+    {
+      "id": "trade-04",
+      "title": "Odd Mushroom → Granny (TIMED)",
+      "region": "Kakariko Village",
+      "era": "adult",
+      "hint": "Take the mushroom to Granny in the Kakariko Potion Shop. Hurry — it spoils fast, so go straight there. She brews it into a potion."
+    },
+    {
+      "id": "trade-05",
+      "title": "Odd Potion → man in the Lost Woods",
+      "region": "Lost Woods",
+      "era": "adult",
+      "hint": "Carry the finished potion back to the man in the Lost Woods. He is grateful and gives you a poacher's saw."
+    },
+    {
+      "id": "trade-06",
+      "title": "Poacher's Saw → head carpenter",
+      "region": "Gerudo Valley",
+      "era": "adult",
+      "hint": "Give the saw to the boss carpenter in Gerudo Valley. In return he hands over a broken Goron sword."
+    },
+    {
+      "id": "trade-07",
+      "title": "Broken Goron's Sword → Biggoron",
+      "region": "Death Mountain Trail",
+      "era": "adult",
+      "hint": "Climb to the summit and show the broken sword to Biggoron, the giant Goron. He agrees to reforge it and gives you a prescription for his sore eyes."
+    },
+    {
+      "id": "trade-08",
+      "title": "Prescription → King Zora",
+      "region": "Zora's Domain",
+      "era": "adult",
+      "hint": "Deliver the prescription to King Zora. He gives you an eyeball frog to take to the lake scientist."
+    },
+    {
+      "id": "trade-09",
+      "title": "Eyeball Frog → Lake Scientist (TIMED)",
+      "region": "Lake Hylia",
+      "era": "adult",
+      "hint": "Rush the frog to the scientist at the Lakeside Laboratory before it spoils. He uses it to make the world's finest eye drops."
+    },
+    {
+      "id": "trade-10",
+      "title": "Eye Drops → Biggoron",
+      "region": "Death Mountain Trail",
+      "era": "adult",
+      "hint": "Bring the eye drops back up the mountain to Biggoron. His eyes clear up — he gives you a claim check for the finished sword."
+    },
+    {
+      "id": "trade-11",
+      "title": "Claim Check → Biggoron's Sword",
+      "region": "Death Mountain Trail",
+      "era": "adult",
+      "hint": "The sword takes three days to forge. Play the Sun's Song six times to pass the time, then return with the claim check to collect Biggoron's Sword."
+    }
+  ]
+}

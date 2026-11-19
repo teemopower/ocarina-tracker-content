@@ -1,0 +1,58 @@
+{
+  "id": "fountains",
+  "title": "Great Fairy Fountains",
+  "subtitle": "6 fountains · rupee offerings",
+  "icon": "flame",
+  "items": [
+    {
+      "id": "fountain-01",
+      "title": "Death Mountain summit",
+      "region": "Death Mountain Trail",
+      "era": "both",
+      "needs": "Bombs, 25 Rupees offering",
+      "hint": "At the summit, left of the owl, bomb the cracked wall. Play Zelda's Lullaby on the mark by the pool and offer 25 rupees for the Magic Meter and Din's Fire.",
+      "remakeNote": "Remake swap: Din's Fire now comes from this fountain, along with the Magic Meter. In the original this fairy gave the Spin Attack upgrade."
+    },
+    {
+      "id": "fountain-02",
+      "title": "Hyrule Castle grounds",
+      "region": "Hyrule Castle",
+      "era": "child",
+      "needs": "Bombs, 50 Rupees offering",
+      "hint": "As a child, bomb the boulder at the dead end past the castle guards. Play Zelda's Lullaby and offer 50 rupees for the upgraded Spin Attack.",
+      "remakeNote": "Remake swap: this fairy now grants the stronger Spin Attack. In the original she taught Din's Fire."
+    },
+    {
+      "id": "fountain-03",
+      "title": "Zora's Fountain",
+      "region": "Zora's Fountain",
+      "era": "both",
+      "needs": "Bombs, 100 Rupees offering",
+      "hint": "Bomb the cracked wall at the back of the fountain, behind Lord Jabu-Jabu. Play Zelda's Lullaby and offer 100 rupees for Farore's Wind."
+    },
+    {
+      "id": "fountain-04",
+      "title": "Death Mountain Crater",
+      "region": "Death Mountain Crater",
+      "era": "adult",
+      "needs": "Megaton Hammer, Goron Tunic, 200 Rupees offering",
+      "hint": "As an adult, smash the rocks on the west side of the crater with the Megaton Hammer (bring the Goron Tunic for the heat). Offer 200 rupees for a doubled Magic Meter."
+    },
+    {
+      "id": "fountain-05",
+      "title": "Desert Colossus",
+      "region": "Desert Colossus",
+      "era": "both",
+      "needs": "Bombs, 300 Rupees offering",
+      "hint": "Bomb the cracked rock between the two palm trees near the Spirit Temple. Offer 300 rupees for Nayru's Love."
+    },
+    {
+      "id": "fountain-06",
+      "title": "Outside Ganon's Castle",
+      "region": "Ganon's Castle",
+      "era": "adult",
+      "needs": "Golden Gauntlets, 500 Rupees offering",
+      "hint": "At the far end of the grounds outside Ganon's Castle, lift the huge pillar with the Golden Gauntlets (found inside the castle). Offer 500 rupees for Double Defense — every hit deals half damage."
+    }
+  ]
+}

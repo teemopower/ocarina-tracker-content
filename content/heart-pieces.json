@@ -1,0 +1,296 @@
+{
+  "id": "hearts",
+  "title": "Heart Pieces",
+  "subtitle": "36 pieces · every 4 = 1 Heart Container",
+  "icon": "heart",
+  "items": [
+    {
+      "id": "heart-01",
+      "title": "Lon Lon Ranch storage shed",
+      "region": "Lon Lon Ranch",
+      "era": "child",
+      "hint": "In the stone storage tower at the back right of the ranch, shove the crates away from the bars and crawl through the gap to the piece."
+    },
+    {
+      "id": "heart-02",
+      "title": "Skull Kid on the stump",
+      "region": "Lost Woods",
+      "era": "child",
+      "needs": "Saria's Song",
+      "hint": "Go left from the Kokiri Forest entrance and play Saria's Song for the Skull Kid sitting on the stump."
+    },
+    {
+      "id": "heart-03",
+      "title": "Skull Kids' memory game",
+      "region": "Lost Woods",
+      "era": "child",
+      "needs": "Fairy Ocarina",
+      "hint": "Go right from the entrance and climb down to the two Skull Kids. Repeat their tunes back on your ocarina — get through all three rounds without a mistake and the piece is yours."
+    },
+    {
+      "id": "heart-04",
+      "title": "Rooftop by the owl drop",
+      "region": "Kakariko Village",
+      "era": "adult",
+      "hint": "Accept the owl's ride down from the top of Death Mountain. He drops you on a village roof — hop to the red roof next to it for the piece."
+    },
+    {
+      "id": "heart-05",
+      "title": "Windmill platform",
+      "region": "Kakariko Village",
+      "era": "adult",
+      "needs": "Hookshot",
+      "hint": "After beating Dampé's race and getting the Hookshot, you exit into the windmill. Ride the rotating platform across to the piece."
+    },
+    {
+      "id": "heart-06",
+      "title": "Man on the Potion Shop roof",
+      "region": "Kakariko Village",
+      "era": "adult",
+      "needs": "Hookshot",
+      "hint": "Leave through the Potion Shop's back door, hookshot onto the neighbouring roof, and talk to the man sitting up there."
+    },
+    {
+      "id": "heart-07",
+      "title": "Skulltula House reward",
+      "region": "Kakariko Village",
+      "era": "both",
+      "needs": "50 Gold Skulltulas",
+      "hint": "Bring 50 Gold Skulltula tokens to the cursed family in the stone house with the blue door. The last son freed hands you a piece."
+    },
+    {
+      "id": "heart-08",
+      "title": "Under the grave",
+      "region": "Kakariko Graveyard",
+      "era": "child",
+      "hint": "Pull back the grave at the top right of the graveyard (the far-right one in the second row) and drop into the hole for a chest.",
+      "remakeNote": "The original needed the Sun's Song here. The remake does not."
+    },
+    {
+      "id": "heart-09",
+      "title": "Dampé's grave-digging tour",
+      "region": "Kakariko Graveyard",
+      "era": "child",
+      "needs": "10 Rupees per dig",
+      "hint": "At night, pay Dampé 10 rupees a dig and let him dig where you point. The prize spot is random, so save first and reload if the dig comes up empty."
+    },
+    {
+      "id": "heart-10",
+      "title": "Magic-bean ledge",
+      "region": "Kakariko Graveyard",
+      "era": "adult",
+      "needs": "Magic Bean (planted as a child)",
+      "hint": "Plant a bean in the soft soil on the left side as a child, then ride the plant up to the piece as an adult."
+    },
+    {
+      "id": "heart-11",
+      "title": "Dampé's race, second run",
+      "region": "Kakariko Graveyard",
+      "era": "adult",
+      "needs": "Hookshot",
+      "hint": "Once you have the Hookshot, race Dampé again and finish in under a minute. One hit from his fire can end the run."
+    },
+    {
+      "id": "heart-12",
+      "title": "Pillar halfway up the river",
+      "region": "Zora's River",
+      "era": "child",
+      "needs": "Cucco, Bombs",
+      "hint": "Climb the vine to the highest island, bomb the cracked hole on its south side, and take the cucco from inside. Glide from there to the tall pillar with the piece.",
+      "remakeNote": "The old trick of gliding from the river ladder no longer works in the remake — use the island cucco instead."
+    },
+    {
+      "id": "heart-13",
+      "title": "Platform near the Domain entrance",
+      "region": "Zora's River",
+      "era": "child",
+      "needs": "Cucco",
+      "hint": "Carry a cucco from the start of the river all the way to the Domain entrance, then glide back down to the piece's platform."
+    },
+    {
+      "id": "heart-14",
+      "title": "Frogs: Song of Storms",
+      "region": "Zora's River",
+      "era": "child",
+      "needs": "Song of Storms",
+      "hint": "Play the Song of Storms for the five frogs sitting on the log in the river. They hop with joy — and drop a piece."
+    },
+    {
+      "id": "heart-15",
+      "title": "Frogs: butterfly game",
+      "region": "Zora's River",
+      "era": "child",
+      "needs": "Zelda's Lullaby, Saria's Song, Epona's Song, Sun's Song, Song of Time",
+      "hint": "Play all five songs for the frogs, then watch for the butterfly and press the button for the frog it hovers over. Get through the whole game without a mistake."
+    },
+    {
+      "id": "heart-16",
+      "title": "Zora's Domain torches",
+      "region": "Zora's Domain",
+      "era": "child",
+      "needs": "Deku Stick",
+      "hint": "Light a Deku Stick at the torch by King Zora's throne, then light the five unlit torches on the way down. A chest with the piece appears."
+    },
+    {
+      "id": "heart-17",
+      "title": "Ice platforms",
+      "region": "Zora's Fountain",
+      "era": "adult",
+      "hint": "As an adult, jump across the frozen platforms in the northeast corner, on the way toward the Ice Cavern."
+    },
+    {
+      "id": "heart-18",
+      "title": "Bottom of the fountain",
+      "region": "Zora's Fountain",
+      "era": "adult",
+      "needs": "Iron Boots, Zora Tunic",
+      "hint": "After the Ice Cavern, sink to the fountain floor with the Iron Boots. The piece sits in a ring of rupees."
+    },
+    {
+      "id": "heart-19",
+      "title": "Behind the waterfall",
+      "region": "Gerudo Valley",
+      "era": "child",
+      "needs": "Cucco",
+      "hint": "Glide with a cucco from near the bridge down to the river, then climb the stone stairs hidden behind the big waterfall."
+    },
+    {
+      "id": "heart-20",
+      "title": "Chest on the cliff",
+      "region": "Gerudo Valley",
+      "era": "child",
+      "needs": "Cucco",
+      "hint": "Take the cucco to the left of the bridge and glide across to the ledge with the chest."
+    },
+    {
+      "id": "heart-21",
+      "title": "Fishing Pond record",
+      "region": "Lake Hylia",
+      "era": "child",
+      "needs": "30 Rupees pond fee",
+      "hint": "Pay the pond fee and land one of the biggest fish — the record catch earns the piece. Beat it again as an adult for the Golden Scale instead."
+    },
+    {
+      "id": "heart-22",
+      "title": "Lakeside Lab roof",
+      "region": "Lake Hylia",
+      "era": "adult",
+      "needs": "Magic Bean (planted as a child)",
+      "hint": "Plant a magic bean next to the lab as a child and ride the plant as an adult. You can also reach the roof as an adult with the Scarecrow's Song and the Hookshot."
+    },
+    {
+      "id": "heart-23",
+      "title": "Laboratory dive tank",
+      "region": "Lake Hylia",
+      "era": "adult",
+      "needs": "Golden Scale",
+      "hint": "With the Golden Scale, dive to the bottom of the lab's pool. The scientist hands you the piece."
+    },
+    {
+      "id": "heart-24",
+      "title": "Death Mountain Trail bean plant",
+      "region": "Death Mountain Trail",
+      "era": "adult",
+      "needs": "Magic Bean (planted as a child)",
+      "hint": "Plant a bean by the entrance to Dodongo's Cavern as a child, then ride the plant as an adult to the opening above it."
+    },
+    {
+      "id": "heart-25",
+      "title": "Goron City spinning vase",
+      "region": "Goron City",
+      "era": "child",
+      "needs": "Bombs",
+      "hint": "Light the torches around the giant vase on the bottom floor so it spins, then drop a bomb into its top opening. A Bomb Flower from the floor above works too, once you have the Goron Bracelet."
+    },
+    {
+      "id": "heart-26",
+      "title": "Crater bean pillar",
+      "region": "Death Mountain Crater",
+      "era": "adult",
+      "needs": "Magic Bean (planted as a child), Bolero of Fire",
+      "hint": "Plant a bean in the soft soil by the Fire Temple entrance as a child, then ride it as an adult to the tall pillar. Warping in with the Bolero of Fire as a child gets you there fast — the heat drains your health the whole time."
+    },
+    {
+      "id": "heart-27",
+      "title": "Crater ledge by the upper entrance",
+      "region": "Death Mountain Crater",
+      "era": "both",
+      "needs": "Goron Tunic (adult)",
+      "hint": "Just inside the crater from the top of the mountain, climb down the net on the left to a ledge holding the piece. Come in at full health — the heat drains you fast, and picking up the piece restores you."
+    },
+    {
+      "id": "heart-28",
+      "title": "Business Scrub in the crater",
+      "region": "Death Mountain Crater",
+      "era": "child",
+      "needs": "100 Rupees",
+      "hint": "Find the Business Scrub on the lower level, stun him, and buy the piece for 100 rupees."
+    },
+    {
+      "id": "heart-29",
+      "title": "Richard the lost dog",
+      "region": "Hyrule Castle Town",
+      "era": "child",
+      "nightOnly": true,
+      "hint": "At night, a woman near the market entrance has lost her dog, Richard. He is one of two white dogs in the back alley — if the first one is wrong, bring back the other."
+    },
+    {
+      "id": "heart-30",
+      "title": "Treasure Chest Shop",
+      "region": "Hyrule Castle Town",
+      "era": "child",
+      "needs": "Lens of Truth",
+      "nightOnly": true,
+      "hint": "At night, win five rooms of the chest game in a row. The Lens of Truth shows which chest holds each key."
+    },
+    {
+      "id": "heart-31",
+      "title": "Bombchu Bowling Alley",
+      "region": "Hyrule Castle Town",
+      "era": "child",
+      "needs": "Bombs",
+      "hint": "The bowling alley opens on the left side of the market once you have bombs. The heart piece is one of the prizes — clear all three difficulty levels to unlock it."
+    },
+    {
+      "id": "heart-32",
+      "title": "Top of the fortress",
+      "region": "Gerudo Fortress",
+      "era": "adult",
+      "needs": "Scarecrow's Song, Hookshot or Longshot",
+      "hint": "Once you can roam the fortress, climb to the highest rooftops, play the Scarecrow's Song at the gap, and pull yourself across to the chest."
+    },
+    {
+      "id": "heart-33",
+      "title": "Horseback archery",
+      "region": "Gerudo Fortress",
+      "era": "adult",
+      "needs": "Epona, Fairy Bow",
+      "hint": "Ride Epona on the archery course and score at least 1,000 points. Ten bullseyes at 100 points each gets you there."
+    },
+    {
+      "id": "heart-34",
+      "title": "Desert Colossus bean ride",
+      "region": "Desert Colossus",
+      "era": "adult",
+      "needs": "Magic Bean (planted as a child), Requiem of Spirit",
+      "hint": "Plant a magic bean next to the Spirit Temple entrance as a child (warp there with the Requiem of Spirit), then ride the plant around the desert as an adult until it drops you by the piece."
+    },
+    {
+      "id": "heart-35",
+      "title": "Chest under the arch near Gerudo Valley",
+      "region": "Hyrule Field",
+      "era": "child",
+      "hint": "In the west of Hyrule Field, a small chest sits under the stone arch. Read the Fairy Thought nearby first, then come back as a child, when the chest is still closed, and open it.",
+      "remakeNote": "As an adult the chest is already open and empty — the Fairy Thought is what tells you to return as a child."
+    },
+    {
+      "id": "heart-36",
+      "title": "Business Scrub by the castle drawbridge",
+      "region": "Hyrule Field",
+      "era": "child",
+      "needs": "Bombs, 100 Rupees",
+      "hint": "Bomb the cracked ground to the right of the drawbridge. The Business Scrub below will not sell without a password — read the Fairy Thought on the tree opposite the hole as an adult, then return as a child and say the password. The piece costs 100 rupees.",
+      "remakeNote": "Remake-only: the password comes from a Fairy Thought. In the original this scrub sold the piece with no password."
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "id": "hall",
+  "title": "Hall of Fallen Foes",
+  "subtitle": "Boss rematches, enemy statues & trials",
+  "bosses": [
+    {
+      "id": "boss-gohma",
+      "name": "Gohma",
+      "location": "Great Deku Tree",
+      "era": "child",
+      "hint": "The parasite inside the Deku Tree. Stun it when its eye opens, then strike."
+    },
+    {
+      "id": "boss-dodongo",
+      "name": "King Dodongo",
+      "location": "Dodongo's Cavern",
+      "era": "child",
+      "hint": "The giant lizard king. Toss bombs into its mouth when it opens wide, then hit it while it rolls."
+    },
+    {
+      "id": "boss-barinade",
+      "name": "Barinade",
+      "location": "Jabu-Jabu's Belly",
+      "era": "child",
+      "hint": "The electric jellyfish. Cut its tentacles with the boomerang, then hit its body."
+    },
+    {
+      "id": "boss-phantom-ganon",
+      "name": "Phantom Ganon",
+      "location": "Forest Temple",
+      "era": "adult",
+      "hint": "The ghostly rider. Return his energy balls with your sword, then strike the real one when he appears."
+    },
+    {
+      "id": "boss-volvagia",
+      "name": "Volvagia",
+      "location": "Fire Temple",
+      "era": "adult",
+      "hint": "The fire dragon. Smash it with the Megaton Hammer when it comes out of the lava."
+    },
+    {
+      "id": "boss-morpha",
+      "name": "Morpha",
+      "location": "Water Temple",
+      "era": "adult",
+      "hint": "The water amoeba. Hookshot its core out of the water and strike it."
+    },
+    {
+      "id": "boss-bongo",
+      "name": "Bongo Bongo",
+      "location": "Shadow Temple",
+      "era": "adult",
+      "hint": "The shadow beast. Use the Lens of Truth to see it, shoot its hands, then strike its eye."
+    },
+    {
+      "id": "boss-twinrova",
+      "name": "Twinrova",
+      "location": "Spirit Temple",
+      "era": "adult",
+      "hint": "The twin witches. Absorb one sister's magic with the Mirror Shield and fire it back at the other."
+    },
+    {
+      "id": "boss-ganondorf",
+      "name": "Ganondorf",
+      "location": "Ganon's Castle",
+      "era": "adult",
+      "hint": "The final duel. Return his energy balls, strike him down, then finish the beast form with the Master Sword and Light Arrows."
+    }
+  ],
+  "enemies": [
+    {
+      "id": "enemy-01",
+      "title": "Deku Baba",
+      "region": "Kokiri Forest / Lost Woods",
+      "hint": "Defeat a Deku Baba anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-02",
+      "title": "Deku Scrub",
+      "region": "Lost Woods / Sacred Grove",
+      "hint": "Defeat a Deku Scrub anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-03",
+      "title": "Keese",
+      "region": "Dungeons and caves",
+      "hint": "Defeat a Keese anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-04",
+      "title": "Skulltula",
+      "region": "Dungeons and grottos",
+      "hint": "Defeat a Skulltula anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-05",
+      "title": "Big Skulltula",
+      "region": "Dungeons",
+      "hint": "Defeat a Big Skulltula anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-06",
+      "title": "Stalfos",
+      "region": "Forest Temple / Shadow Temple",
+      "hint": "Defeat a Stalfos anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-07",
+      "title": "Wolfos",
+      "region": "Sacred Grove / Forest Temple",
+      "hint": "Defeat a Wolfos anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-08",
+      "title": "White Wolfos",
+      "region": "Ice Cavern",
+      "hint": "Defeat a White Wolfos anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-09",
+      "title": "Lizalfos",
+      "region": "Dodongo's Cavern / Spirit Temple",
+      "hint": "Defeat a Lizalfos anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-10",
+      "title": "Dinolfos",
+      "region": "Fire Temple / Gerudo Training Ground",
+      "hint": "Defeat a Dinolfos anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-11",
+      "title": "Dodongo",
+      "region": "Dodongo's Cavern",
+      "hint": "Defeat a Dodongo anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-12",
+      "title": "Baby Dodongo",
+      "region": "Dodongo's Cavern",
+      "hint": "Defeat a Baby Dodongo anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-13",
+      "title": "Tektite",
+      "region": "Death Mountain / Water Temple",
+      "hint": "Defeat a Tektite anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-14",
+      "title": "Octorok",
+      "region": "Zora's River / Lake Hylia",
+      "hint": "Defeat a Octorok anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-15",
+      "title": "Like Like",
+      "region": "Dungeons",
+      "hint": "Defeat a Like Like anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-16",
+      "title": "Floormaster",
+      "region": "Forest Temple / Shadow Temple",
+      "hint": "Defeat a Floormaster anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-17",
+      "title": "Wallmaster",
+      "region": "Forest Temple / Shadow Temple",
+      "hint": "Defeat a Wallmaster anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-18",
+      "title": "Redead",
+      "region": "Kakariko / Shadow Temple",
+      "hint": "Defeat a Redead anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-19",
+      "title": "Gibdo",
+      "region": "Bottom of the Well",
+      "hint": "Defeat a Gibdo anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-20",
+      "title": "Iron Knuckle",
+      "region": "Spirit Temple / Gerudo Training Ground",
+      "hint": "Defeat a Iron Knuckle anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-21",
+      "title": "Freezard",
+      "region": "Ice Cavern",
+      "hint": "Defeat a Freezard anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-22",
+      "title": "Anubis",
+      "region": "Spirit Temple",
+      "hint": "Defeat a Anubis anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-23",
+      "title": "Beamos",
+      "region": "Dungeons",
+      "hint": "Defeat a Beamos anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-24",
+      "title": "Armos",
+      "region": "Dungeons",
+      "hint": "Defeat a Armos anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-25",
+      "title": "Peahat",
+      "region": "Hyrule Field",
+      "hint": "Defeat a Peahat anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-26",
+      "title": "Bari",
+      "region": "Jabu-Jabu's Belly / Water Temple",
+      "hint": "Defeat a Bari anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-27",
+      "title": "Biri",
+      "region": "Jabu-Jabu's Belly / Water Temple",
+      "hint": "Defeat a Biri anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-28",
+      "title": "Shell Blade",
+      "region": "Water Temple",
+      "hint": "Defeat a Shell Blade anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-29",
+      "title": "Spike",
+      "region": "Water Temple",
+      "hint": "Defeat a Spike anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-30",
+      "title": "Torch Slug",
+      "region": "Fire Temple",
+      "hint": "Defeat a Torch Slug anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-31",
+      "title": "Flare Dancer",
+      "region": "Fire Temple",
+      "hint": "Defeat a Flare Dancer anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-32",
+      "title": "Poe",
+      "region": "Hyrule Field / Graveyard",
+      "hint": "Defeat a Poe anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-33",
+      "title": "Big Poe",
+      "region": "Hyrule Field",
+      "hint": "Defeat a Big Poe anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-34",
+      "title": "Guay",
+      "region": "Hyrule Field / Lake Hylia",
+      "hint": "Defeat a Guay anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-35",
+      "title": "Moblin",
+      "region": "Sacred Grove / Gerudo Valley",
+      "hint": "Defeat a Moblin anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-36",
+      "title": "Club Moblin",
+      "region": "Sacred Grove",
+      "hint": "Defeat a Club Moblin anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-37",
+      "title": "Stinger",
+      "region": "Water Temple",
+      "hint": "Defeat a Stinger anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-38",
+      "title": "Tailpasaran",
+      "region": "Jabu-Jabu's Belly",
+      "hint": "Defeat a Tailpasaran anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-39",
+      "title": "Mad Scrub",
+      "region": "Lost Woods / Deku Tree",
+      "hint": "Defeat a Mad Scrub anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-40",
+      "title": "Business Scrub",
+      "region": "Lost Woods / grottos",
+      "hint": "Defeat a Business Scrub anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    },
+    {
+      "id": "enemy-41",
+      "title": "Big Octo",
+      "region": "Jabu-Jabu's Belly",
+      "hint": "Defeat a Big Octo anywhere in the game to add its statue to the Hall.",
+      "era": "both"
+    }
+  ],
+  "trials": [
+    {
+      "id": "trial-01",
+      "title": "Boss trial I",
+      "region": "Hall of Fallen Foes",
+      "era": "adult",
+      "hint": "Start a boss gauntlet from a Kaepora Gaebora statue in the center of the Hall. Clear the bosses back to back to earn a trophy for Link's bedroom."
+    },
+    {
+      "id": "trial-02",
+      "title": "Boss trial II",
+      "region": "Hall of Fallen Foes",
+      "era": "adult",
+      "hint": "A second boss gauntlet from the center statues. Chain the rematches without stopping to add another trophy."
+    },
+    {
+      "id": "trial-03",
+      "title": "Boss trial III",
+      "region": "Hall of Fallen Foes",
+      "era": "adult",
+      "hint": "A third boss gauntlet from the center statues. The hardest run of the Hall — finish it for the final trophy."
+    }
+  ]
+}
